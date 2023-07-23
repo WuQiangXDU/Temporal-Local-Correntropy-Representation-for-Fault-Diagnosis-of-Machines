@@ -11,6 +11,7 @@ Abstract— In view of the good correlation measurement ability of correntropy, 
 
 ## Datasets
 CWRU, PU, SQ, Gearset
+
 The datasets can be obtained from xxx and needs to be placed in the "Dataset" directory.
 
 ## Usage
